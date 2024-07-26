@@ -6,6 +6,7 @@ Project Overview
 - Language: C++
 
 Currently, the server used for the user study is closed.
+
 For actual testing, the following edits need to be made to the blueprints:
 
 1. Removing VaRest Plugin Usage 
